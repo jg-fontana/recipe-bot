@@ -19,7 +19,7 @@ Um assistente virtual a base de inteligência artificial (GPT-4) que gera receit
 2. Crie um arquivo chamado `key.txt` na raiz do projeto.
 3. Cole sua chave da OpenAI (iniciada em `sk-...`) dentro deste arquivo.
 
-**Atenção:** O arquivo `key.txt` não é versionado por motivos de segurança.
+O arquivo `key.txt` não é versionado por motivos de segurança.
 
 ## Como Configurar e Executar
 
