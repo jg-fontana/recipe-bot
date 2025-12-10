@@ -36,6 +36,7 @@ Abra o terminal na pasta raiz e execute:
 mvn clean package
 Ainda no terminal, execute o comando 
 java -jar target/recipe-bot-1.0-SNAPSHOT.jar.
+
 Com isso, o projeto será iniciado
 
 ### Diagrama de classes
