@@ -32,13 +32,14 @@ Como este repositório contém apenas o código-fonte (por segurança), você pr
 
 ### Passo 2: Compilar o Projeto
 Abra o terminal na pasta raiz e execute:
-```bash
+
 mvn clean package
 Ainda no terminal, execute o comando 
 java -jar target/recipe-bot-1.0-SNAPSHOT.jar.
 Com isso, o projeto será iniciado
 
 ### Diagrama de classes
+```bash
 classDiagram
     class App {
         +main(args: String[])
