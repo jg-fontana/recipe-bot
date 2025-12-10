@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+*.log
+.idea/
+.vscode/
+*.iml
+dependency-reduced-pom.xml
+key.txt
