@@ -50,7 +50,6 @@ classDiagram
     class IngredientManager {
         -ingredients: List<String>
         +addIngredient(ingredient: String)
-        +removeIngredient(ingredient: String): boolean
         +getIngredients(): List<String>
         +isIngredientInput(input: String): boolean
     }
